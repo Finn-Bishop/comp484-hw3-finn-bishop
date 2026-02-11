@@ -1,2 +1,1 @@
-# comp484-hw3-finn-bishop
-Homework 3
+https://csun-orm.github.io/comp484-hw3/
